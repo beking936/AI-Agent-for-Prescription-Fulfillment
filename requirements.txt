@@ -1,0 +1,7 @@
+streamlit
+pillow
+groq
+huggingface_hub
+langchain-community
+duckduckgo-search
+requests

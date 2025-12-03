@@ -1,0 +1,11 @@
+# Virtual envs
+.pharmabot/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit secrets (DO NOT TRACK)
+.streamlit/secrets.toml
+.streamlit/secrets.tom;
